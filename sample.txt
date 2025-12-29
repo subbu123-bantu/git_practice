@@ -1,1 +1,3 @@
-this is my first git file using  a git resourse thank you
+<<<<<<< HEAD
+=======
+>>>>>>> 661d60e98ad08fa89df4848ff293037ef915ceba
